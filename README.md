@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repo contains 4 Machine Learning experiments done with Python and/or Weka.
+This repo contains Machine Learning experiments done with Python and/or Weka.
 
 ## Job Postings Prediction (Classification)
 
