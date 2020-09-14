@@ -23,3 +23,7 @@ Goal: Given a dataset of 13 features and 304 instances predict if a person is li
 
 Goal: Predict 24 professional players that will be part of an All Stars Game at the end of the NBA season using a dataset of 54 features and 
 6455 instances.
+
+## Student Grade Prediction (Classification)
+
+Goal: Predict student's final grade based on their study time, absences and 30 other features describing their lifestyle.
